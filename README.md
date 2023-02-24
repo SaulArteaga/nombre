@@ -1,2 +1,3 @@
 # primer-repo
-first private repo on github
+1. first private repo on github
+* Juan Luis
