@@ -1,1 +1,0 @@
-print("Cuadricoptero de combate avanzado")
